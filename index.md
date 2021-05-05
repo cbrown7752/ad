@@ -1,35 +1,22 @@
 ## Alpha Delta
 
-You can use the [editor on GitHub](https://github.com/cbrown7752/ad/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello everyone, 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 
 
-### Markdown
+It has been riley fun to develop the Alpha Delta game. But as of the 1st of the year the game will no longer be able to be played or downloaded. We do thank you for the support on the game. We know more people want to play the game but we only have 1 server. Which means we will start development on a new game. Alpha Delta apocalypse will be the newest game. We will start development in may of 2021. We have no ETA on when the game will be done. But with poplar the last game was we will go ahead and open meta testing apps. To apply email apps@echobot.xyz. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
 
-```markdown
-Syntax highlighted code block
+Keep an eye on this site for updates. Once again thank you for your support on the game. 
 
-# Header 1
-## Header 2
-### Header 3
+ 
 
-- Bulleted
-- List
+ 
 
-1. Numbered
-2. List
+Yours Truly, 
 
-**Bold** and _Italic_ and `Code` text
+Developer 
 
-[Link](url) and ![Image](src)
-```
+Culann Brown 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cbrown7752/ad/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
