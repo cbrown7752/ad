@@ -9,14 +9,22 @@ It has been riley fun to develop the Alpha Delta game. But as of the 1st of the 
  
 
 Keep an eye on this site for updates. Once again thank you for your support on the game. 
-
- 
-
  
 
 Yours Truly, 
 
 Developer 
 
-Culann Brown 
+Culann Brown
+
+
+
+## Alpha Delta Apocalypse
+
+Alpha Delta apocalypse will be the newest game. We will start development in may of 2021. We have no ETA on when the game will be done.
+
+
+## Meta and Beta Testing Apps
+
+To apply email apps@echobot.xyz
 
