@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Alpha Delta
 
 You can use the [editor on GitHub](https://github.com/cbrown7752/ad/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
